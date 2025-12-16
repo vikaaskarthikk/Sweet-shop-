@@ -1,4 +1,4 @@
-# Sweet Delights - Sweet Shop Management System
+#  Sweet Shop Management System
 
 A full-stack web application for managing an Indian sweet shop with user authentication, inventory management, and admin capabilities.
 
@@ -201,6 +201,7 @@ Co-authored-by: GitHub Copilot <copilot@github.com>"
 ---
 
 > **Disclaimer**: This project is developed for educational and demonstration purposes as part of the Incubyte assessment.
+
 
 
 
