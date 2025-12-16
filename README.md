@@ -104,7 +104,7 @@ You can login using the demo credentials provided below.
 
 ### Second User Account
 - **Email**: vikaaskarthik.k@gmail.com
-- **Password**: Dilseerat$12
+- **Password**: Vikaas.K#123
 
 ## 📸 Screenshots
 
@@ -201,6 +201,7 @@ Co-authored-by: GitHub Copilot <copilot@github.com>"
 ---
 
 > **Disclaimer**: This project is developed for educational and demonstration purposes as part of the Incubyte assessment.
+
 
 
 
