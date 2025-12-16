@@ -103,7 +103,7 @@ You can login using the demo credentials provided below.
 - **Password**: user123
 
 ### Second User Account
-- **Email**: dilseeratjassal@gmail.com
+- **Email**: vikaaskarthik.k@gmail.com
 - **Password**: Dilseerat$12
 
 ## 📸 Screenshots
@@ -195,11 +195,12 @@ Co-authored-by: GitHub Copilot <copilot@github.com>"
 ## 👨‍💻 Developer
 
 **Dilseerat Jassal**  
-📧 Email: dilseeratjassal@gmail.com  
-💼 LinkedIn: [linkedin.com/in/dilseerat-kaur-9502702b0](http://linkedin.com/in/dilseerat-kaur-9502702b0/)
+📧 Email: vikaaskarthik.k@gmail.com  
+💼 LinkedIn: [https://www.linkedin.com/in/vikaas-karthik-k-24v052001/)
 
 ---
 
 > **Disclaimer**: This project is developed for educational and demonstration purposes as part of the Incubyte assessment.
+
 
 
